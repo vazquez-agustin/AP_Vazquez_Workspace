@@ -1,7 +1,8 @@
 # Repositorio de Aprendizaje Profundo
 
-- **Profesores:** Marcos Maillot & Gerardo Vilcamiza Espinoza
-
+- **Profesores:**
+    - Marcos Maillot
+    - Gerardo Vilcamiza Espinoza
 - **Estudiante:**
   - Agustín Jesús Vazquez (e2301)
 
